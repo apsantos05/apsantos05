@@ -1,4 +1,4 @@
-## Oiii eu sou o Arthur Santos, desenvolvedor em evolução e apaixonado por tecnologia!
+##  Arthur Santos, desenvolvedor em evolução e apaixonado por tecnologia!
 
 <img align="right" alt="Arthur programando" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
