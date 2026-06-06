@@ -39,7 +39,7 @@
   <a href="mailto:arthurpsantos05@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/arthur-santos/" target="_blank">
+  <a href="https://www.linkedin.com/in/arthurpsantos/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://apsantos05.github.io/apsantos05/" target="_blank">
