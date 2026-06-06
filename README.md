@@ -21,8 +21,8 @@
 
 <div>
   <a href="https://github.com/apsantos05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apsantos05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Arthur Santos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apsantos05&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas por Arthur Santos">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apsantos05&theme=dracula" alt="Estatísticas do GitHub de Arthur Santos">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apsantos05&theme=dracula" alt="Linguagens mais usadas por Arthur Santos">
   </a>
 </div>
 
